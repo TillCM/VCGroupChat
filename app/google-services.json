@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "317254611569",
+    "firebase_url": "https://vcgroupchat-4dfb4.firebaseio.com",
+    "project_id": "vcgroupchat-4dfb4",
+    "storage_bucket": "vcgroupchat-4dfb4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317254611569:android:f4e30351bad8a7b3",
+        "android_client_info": {
+          "package_name": "com.example.ctill.vcgroupchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317254611569-etgf5dlm262i3vlnuq6a8mqti89rli3c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ctill.vcgroupchat",
+            "certificate_hash": "849395eacc6dc4870be36df8d86eb97b47d03768"
+          }
+        },
+        {
+          "client_id": "317254611569-i5nlp1tpl6oaaunqmfgni8dms3gu3bvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuPmiNRfGZYJ3gV3Oy6bmVIzm1s3hywjY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317254611569-i5nlp1tpl6oaaunqmfgni8dms3gu3bvk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
